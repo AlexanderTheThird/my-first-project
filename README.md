@@ -1,5 +1,5 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This project is the first one I'm doing with Nvidia's AI Workbench. So far, there are no objectives, per se, but to gain an understanding of the software.
 
 ## Description
 Optional section to provide a more detailed overview of the project.
